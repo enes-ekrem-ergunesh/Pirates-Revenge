@@ -1,0 +1,198 @@
+I want to make a game, 2d platform game, scene is changing when player walk through the endpoint of the current scene. There are some challenges as in mario game, in some scenes there are chests, when player open that chest, she needs to solve a puzzle to get some materials. In the end of each scenario, player finds a hacksmith that she can upgrade her character. The main story of the game could be a pirate trying to get revenge of his enemy that betrayed him, that took his glass eye, the eye would be misery to the player until the end of the game.
+Sounds like you have a good idea for a game! Here are some steps you can take to start developing your 2D platformer:
+
+Plan out your game's overall structure and gameplay mechanics. This includes deciding on the number of levels and what challenges and puzzles the player will face in each level. You should also determine what upgrades and abilities the player will have at their disposal and how they can be obtained.
+
+Create a storyboard or flowchart to outline the progression of the game. This can help you visualize the player's journey and ensure that the gameplay and story elements fit together well.
+
+Design and create the artwork for your game. This includes creating sprites for the player character, enemies, and other in-game assets such as backgrounds, platforms, and items. You can use a tool like Adobe Photoshop or a pixel art software like Aseprite to create your artwork.
+
+Implement the gameplay mechanics and level design. You can use a game engine like Unity or GameMaker Studio to create your game. These tools provide a range of features that can help you create your levels, including tools for designing platforms, setting up enemy AI, and implementing player controls.
+
+Test and debug your game to iron out any issues and ensure that it is enjoyable and challenging for players. You can enlist the help of friends or other members of the game development community to playtest your game and provide feedback.
+
+Once you have a completed game, you can then consider publishing it on platforms like Steam or the App Store. This will involve creating marketing materials, setting up a website for your game, and preparing any necessary documentation.
+
+I hope this helps get you started on your 2D platformer! Let me know if you have any other questions.
+
+
+
+
+Memduh Yılmaz
+I need to fill a form as a plan so, what is the target audience for this game
+Determining the target audience for your game is an important step in the planning process. This will help you focus your development efforts and ensure that your game is tailored to the needs and interests of your intended players.
+
+When considering the target audience for your 2D platformer, you should consider factors such as age, gender, interests, and skill level. For example, if your game is intended for children, you may want to make the gameplay more straightforward and the challenges less difficult, while if your game is intended for more experienced gamers, you may want to include more complex puzzles and obstacles.
+
+In terms of the specific target audience for your game, it sounds like it could be appealing to a wide range of players, including fans of action games, puzzle games, and adventure games. The theme of a pirate seeking revenge could also appeal to players who enjoy historical or fictional tales of pirates and treasure.
+
+Overall, it's important to keep in mind that your target audience should be a specific group of players that you are trying to reach and engage with your game. By identifying your target audience, you can ensure that your game is tailored to their interests and needs, which can help increase its appeal and success.
+
+
+
+
+Memduh Yılmaz
+What about Thematic Setting?\
+The thematic setting of a game refers to the overall atmosphere, mood, and style of the game's world and characters. In a 2D platformer, the thematic setting can help to establish the context and backdrop for the player's journey and gameplay experiences.
+
+When deciding on the thematic setting for your game, you should consider the tone and style that you want to convey to players. This might include elements such as the setting (e.g. a pirate's island, a fantasy realm, a futuristic city), the visual style (e.g. realistic, cartoonish, pixel art), and the overall mood (e.g. lighthearted, dramatic, creepy).
+
+It's also important to consider how the thematic setting fits with the overall theme and story of your game. For example, in your 2D platformer, the theme of a pirate seeking revenge suggests a setting that is likely to be set in a historical or fictional version of the Caribbean, with characters and environments that are appropriate for this time period and location.
+
+By carefully considering the thematic setting of your game, you can help to create an immersive and engaging experience for players, and ensure that the game world and characters feel coherent and believable.
+
+
+
+
+Memduh Yılmaz
+I want something simple, which thematic setting you would suggest?
+If you're looking for a simple thematic setting for your 2D platformer, there are a few options you could consider:
+
+A generic fantasy world: This could be a setting that is inspired by various fantasy tropes, such as medieval castles, magical forests, and mythical creatures. This type of setting could be relatively easy to design and could provide a lot of creative freedom for your game's story and gameplay elements.
+
+A modern city: A setting based on a modern city could be a good choice if you want something that is easy to visualize and relatively straightforward to design. This could include a range of locations, such as skyscrapers, streets, parks, and other urban environments.
+
+A beach or island: A tropical beach or island setting could provide a laid-back and relaxed atmosphere for your game. This could include a range of environments, such as sandy beaches, palm trees, and crystal-clear waters.
+
+Overall, it's important to choose a thematic setting that fits well with the theme and story of your game, and that is appropriate for your target audience. By keeping things simple, you can focus on creating enjoyable gameplay and challenges, rather than getting bogged down in intricate world-building details.
+
+
+
+
+Memduh Yılmaz
+what can be the MVP Game Moment of this game
+The MVP (minimum viable product) game moment of a game is the core gameplay experience or feature that is essential to the game and that players will most remember and talk about. In a 2D platformer, the MVP game moment might be a specific level or boss battle that is particularly challenging or memorable, or a gameplay mechanic that is central to the game's design.
+
+For your 2D platformer, some potential MVP game moments could include:
+
+An epic boss battle: This could be a climactic showdown with a powerful enemy at the end of a level or world. This could involve unique gameplay mechanics or challenges that are not found elsewhere in the game, and that are memorable and challenging for players.
+
+A challenging puzzle: This could be a puzzle that requires players to think creatively and use their abilities in unique ways to solve it. This could involve manipulating objects, using special abilities, or finding hidden items.
+
+A unique gameplay mechanic: This could be a gameplay element that is central to the game and that sets it apart from other 2D platformers. This could be something like a double jump, wall-jumping, or the ability to transform into different animals or forms.
+
+Overall, the MVP game moment should be something that is central to the game and that players will remember and talk about long after they finish playing. By identifying and focusing on this key gameplay experience, you can help to create an enjoyable and memorable game for players.
+
+
+
+
+Memduh Yılmaz
+can you write a sample game summary for this game
+Sure! Here's a sample game summary for your 2D platformer:
+
+"In 'Pirate's Revenge,' players take on the role of a vengeful pirate seeking to reclaim their stolen glass eye from a treacherous enemy. As they journey across a series of island levels, players must overcome challenging obstacles and enemies, solve puzzles to gather materials, and upgrade their character with the help of a friendly hacksmith.
+
+Along the way, players will encounter a range of environments, from sandy beaches and tropical forests to ancient ruins and treacherous caves. They will also encounter a variety of foes, including fearsome pirate captains, giant crabs, and other dangers of the high seas.
+
+In the end, players will face off against their ultimate enemy in an epic boss battle, using all of their skills and abilities to defeat their foe and reclaim their precious glass eye. 'Pirate's Revenge' is a thrilling action-adventure game that combines fast-paced platforming with challenging puzzles and memorable boss battles."
+
+
+
+
+Memduh Yılmaz
+can you rewrite it so the glass eye will be mistery
+Certainly! Here's a revised game summary that focuses on the mystery of the glass eye:
+
+"In 'Pirate's Revenge,' players take on the role of a vengeful pirate seeking to uncover the mystery of their stolen glass eye. As they journey across a series of island levels, players must overcome challenging obstacles and enemies, solve puzzles to gather clues, and upgrade their character with the help of a friendly hacksmith.
+
+As they progress through the game, players will discover that the glass eye holds a powerful secret, and that their enemy will stop at nothing to keep it hidden. Players will need to use all of their cunning and resourcefulness to outwit their foes and uncover the truth behind the glass eye.
+
+Along the way, players will encounter a range of environments, from sandy beaches and tropical forests to ancient ruins and treacherous caves. They will also encounter a variety of foes, including fearsome pirate captains, giant crabs, and other dangers of the high seas.
+
+In the end, players will face off against their ultimate enemy in an epic boss battle, using all of their skills and abilities to defeat their foe and uncover the secrets of the mysterious glass eye. 'Pirate's Revenge' is a thrilling action-adventure game that combines fast-paced platforming with challenging puzzles and memorable boss battles."
+
+
+
+
+Memduh Yılmaz
+I meant do not mention the glass eye, just tell it "stolen misterical thing" or something like that 
+Certainly! Here's a revised game summary that omits any mention of the glass eye:
+
+"In 'Pirate's Revenge,' players take on the role of a vengeful pirate seeking to reclaim a stolen, mysterious object from a treacherous enemy. As they journey across a series of island levels, players must overcome challenging obstacles and enemies, solve puzzles to gather materials, and upgrade their character with the help of a friendly hacksmith.
+
+As they progress through the game, players will discover that the stolen object holds a powerful secret, and that their enemy will stop at nothing to keep it hidden. Players will need to use all of their cunning and resourcefulness to outwit their foes and uncover the truth behind the mysterious object.
+
+Along the way, players will encounter a range of environments, from sandy beaches and tropical forests to ancient ruins and treacherous caves. They will also encounter a variety of foes, including fearsome pirate captains, giant crabs, and other dangers of the high seas.
+
+In the end, players will face off against their ultimate enemy in an epic boss battle, using all of their skills and abilities to defeat their foe and reclaim the stolen, mysterious object. 'Pirate's Revenge' is a thrilling action-adventure game that combines fast-paced platforming with challenging puzzles and memorable boss battles."
+
+
+
+
+Memduh Yılmaz
+Core Player Experience?
+The core player experience refers to the overall gameplay and narrative experience that players will have while playing your game. In a 2D platformer, the core player experience might include elements such as the player character's abilities and upgrades, the levels and environments they explore, the challenges and enemies they face, and the story and characters they encounter.
+
+For your 2D platformer, the core player experience might involve:
+
+Playing as a pirate seeking revenge and exploring a series of island levels to uncover the mystery of a stolen, mysterious object.
+Using a range of abilities and upgrades, such as a double jump, wall-jumping, and special attacks, to overcome obstacles and defeat enemies.
+Solving puzzles to gather materials and unlock new abilities or upgrades.
+Encountering a range of environments, from sandy beaches and tropical forests to ancient ruins and treacherous caves.
+Facing off against a variety of foes, including fearsome pirate captains, giant crabs, and other dangers of the high seas.
+Uncovering the secrets of the mysterious object and facing off against a final boss in an epic showdown.
+Overall, the core player experience should be engaging, challenging, and enjoyable for players, and should provide a satisfying progression through the game's story and gameplay elements. By focusing on the core player experience, you can help to create a game that players will want to play again and again.
+
+
+
+
+Memduh Yılmaz
+Central Story Theme in a single sentence
+The central story theme of your 2D platformer could be: "A vengeful pirate seeks to uncover the mystery of a stolen, mysterious object and defeat a treacherous enemy in order to reclaim it."
+
+This theme captures the core elements of the game's story, including the player character's motivation (vengeance), the central conflict (recovering the stolen object), and the ultimate goal (defeating the enemy and reclaiming the object). It also hints at the potential for mystery and intrigue surrounding the object, which could be a key part of the game's narrative.
+
+Overall, the central story theme should be concise and to the point, and should clearly convey the main elements of the game's story. By identifying the central story theme, you can ensure that all of the game's narrative and gameplay elements are focused and aligned with the overall direction of the game.
+
+
+
+
+Memduh Yılmaz
+Central Story Theme in a short sentence as "Yearning for redemption" fo example
+Sure! Here are a few potential central story themes for your 2D platformer, expressed as short sentences:
+
+"Seeking vengeance against a treacherous enemy."
+"Uncovering the secrets of a mysterious, stolen object."
+"Defeating a powerful foe to reclaim a valuable treasure."
+"Redeeming a lost reputation by reclaiming a stolen prize."
+"Reclaiming a treasured possession from a cunning thief."
+These themes all capture the core elements of the game's story and focus on the player character's motivations and goals. They also hint at the potential for themes of betrayal, redemption, and treasure hunting to be explored in the game.
+
+Overall, the central story theme should be concise and to the point, and should clearly convey the main elements of the game's story. By identifying the central story theme, you can ensure that all of the game's narrative and gameplay elements are focused and aligned with the overall direction of the game.
+
+
+
+
+Memduh Yılmaz
+Design Pillar for this game?\
+A design pillar is a core principle or idea that guides the development of a game and helps to shape its overall design and direction. In a 2D platformer, the design pillars might include elements such as the gameplay mechanics, the level design, the art style, and the overall theme and story.
+
+For your 2D platformer, some potential design pillars could include:
+
+Fast-paced platforming: This could be a key focus of the game, with tight controls and challenging obstacles and enemies that require quick reflexes and careful planning.
+
+Unique abilities and upgrades: The player character could have access to a range of special abilities and upgrades that allow them to overcome obstacles and defeat enemies in creative ways.
+
+Engaging puzzles and challenges: The game could include a range of puzzles and challenges that require players to think creatively and use their abilities in unique ways to solve them.
+
+A cohesive and immersive world: The game's levels, characters, and story should all work together to create a cohesive and immersive world for players to explore.
+
+A memorable and satisfying story: The game's story should be engaging and satisfying, with a satisfying conclusion and memorable characters and events.
+
+Overall, the design pillars should serve as a guiding force for the game's development, helping to ensure that all of its elements work together to create a cohesive and enjoyable experience for players.
+
+
+
+
+Memduh Yılmaz
+Remarkability of this game? for example: "Atmospheric fantasy platformer"
+The remarkability of a game refers to the unique and memorable aspects of the game that set it apart from other games in its genre. In a 2D platformer, the remarkability might come from the gameplay mechanics, the level design, the art style, or the overall theme and story.
+
+For your 2D platformer, some potential remarkabilities might include:
+
+A fast-paced and challenging platforming experience that combines tight controls and creative abilities with tricky obstacles and enemies.
+Unique and memorable levels that feature a range of environments, from sandy beaches and tropical forests to ancient ruins and treacherous caves.
+A memorable and satisfying story that follows a vengeful pirate seeking to uncover the mystery of a stolen, mysterious object and defeat a treacherous enemy.
+Engaging puzzles and challenges that require players to think creatively and use their abilities in unique ways.
+A cohesive and immersive world that brings together all of the game's elements in a believable and engaging way.
+Overall, the remarkability of your game should be the key features and elements that make it stand out and that players will remember and talk about after they finish playing. By focusing on the remarkability of your game, you can help to create an experience that players will want to return to again and again.
